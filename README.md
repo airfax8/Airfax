@@ -15,6 +15,10 @@
   <a href="https://github.com/airfax8">
     <img alt="followers" title="Github'dan Takip Et" src="https://img.shields.io/github/followers/airfax8?label=Takip%20et&style=social"/></a>
 
+
+    ----------------------------
+    
+    
 # Diğer Bağlantılar
 
 [![Youtube](https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC8rUaGDtdoKIZF4NqKzaZ5A?sub_confirmation=1)
