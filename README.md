@@ -24,3 +24,5 @@
 [![Youtube](https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC8rUaGDtdoKIZF4NqKzaZ5A?sub_confirmation=1)
 [![Mail](https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/airboy.fax)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/h7BGxKARgU)
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/837953203197968414)](https://discord.com/users/837953203197968414)
