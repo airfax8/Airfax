@@ -13,7 +13,7 @@
     ----------------------------
     
   <a href="https://github.com/airfax8">
-    <img alt="followers" title="Github'dan Takip Et" src="https://img.shields.io/github/followers/airfax8?label=Takip%20et&style=social"/></a>
+    <img alt="followers" title="Github'dan Takip Et" src="https://img.shields.io/github/followers/airfax8?style=social"/></a>
 
 
     ----------------------------
