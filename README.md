@@ -34,4 +34,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=airfax8&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=airfax8&icon=7&color=0)]([https://visitcount.itsvg.in](https://airfax.cf))
+[![](https://visitcount.itsvg.in/api?id=airfax8&icon=7&color=0)]([https://airfax.cf](https://airfax.cf))
