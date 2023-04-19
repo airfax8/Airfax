@@ -1,7 +1,8 @@
 # Merhaba! Ben [Airfax](https://github.com/airfax8) <img src="https://cdn.discordapp.com/avatars/1036147521875103764/914c70b0a051523db6de01cef5df138c.webp?size=1024" width="25px">
 
   <a href="https://www.youtube.com/channel/UC8rUaGDtdoKIZF4NqKzaZ5A?sub_confirmation=1">
-    <img alt="youtube subscribers" title="Youtube Kanalıma Abone Ol" src="https://img.shields.io/youtube/channel/subscribers/UC8rUaGDtdoKIZF4NqKzaZ5A?label=ABONE&style=social"/></a> 
+    <img alt="youtube subscribers" title="Youtube Kanalıma Abone Ol" src="https://img.shields.io/youtube/channel/subscribers/UC8rUaGDtdoKIZF4NqKzaZ5A?label=Abone&style=social"/></a> 
+    
     
     ----------------------------
     
