@@ -13,6 +13,7 @@
 
 <h1> :chart_with_upwards_trend: My stats </h1>
 <img src="https://github-readme-stats.vercel.app/api?username=airfax8&theme=radical&hide_border=false&include_all_commits=true&count_private=false" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=airfax8&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
 
 <h1> :gem: My achievements </h1>
 <img src="https://github-profile-trophy.vercel.app/?username=airfax8&theme=onedark" />
