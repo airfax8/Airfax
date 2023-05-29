@@ -1,38 +1,21 @@
-# Merhaba! Ben [Airfax](https://github.com/airfax8) <img src="https://cdn.discordapp.com/avatars/1036147521875103764/914c70b0a051523db6de01cef5df138c.webp?size=1024" width="25px">
+<div align="center">
+<h1> :wave: Hi, I’m @Airfax </h1>
+<p> A high school student trying to gradually learn to code ❤ </p>
+  
+<h1> :grey_question: About </h1>
+  <p> :label: My name is Melih </p>
+  <p> 🧐 I am back-end developer </p>
+  <p> 🏳️ I live in Turkey </p>
+  <p> 💻 Favorite programming language <a href="https://tr.wikipedia.org/wiki/JavaScript"> Javascript </a> </p>
 
-  <a href="https://www.youtube.com/channel/UC8rUaGDtdoKIZF4NqKzaZ5A?sub_confirmation=1">
-    <img alt="youtube subscribers" title="Youtube Kanalıma Abone Ol" src="https://img.shields.io/youtube/channel/subscribers/UC8rUaGDtdoKIZF4NqKzaZ5A?label=Abone&style=social"/></a> 
-    
-    
-    ----------------------------
-    
-    
-  <a href="https://www.youtube.com/channel/UC8rUaGDtdoKIZF4NqKzaZ5A?sub_confirmation=1">
-    <img alt="youtube views" title="YouTube İzlenme Sayım" src="https://img.shields.io/youtube/channel/views/UC8rUaGDtdoKIZF4NqKzaZ5A?label=G%C3%B6r%C3%BCnt%C3%BCleme&style=social"/></a> 
-    
-    
-    ----------------------------
-    
-  <a href="https://github.com/airfax8">
-    <img alt="followers" title="Github'dan Takip Et" src="https://img.shields.io/github/followers/airfax8?style=social"/></a>
+<h1> ✍ Technologies I use </h1>
+<img src="https://skillicons.dev/icons?i=js,ts,cs,react,nodejs,mongodb,html,css,vscode,atom,discord&theme=dark" />
 
+<h1> :chart_with_upwards_trend: My stats </h1>
+<img src="https://github-readme-stats.vercel.app/api?username=airfax8&theme=radical&hide_border=false&include_all_commits=true&count_private=false" />
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=airfax8&theme=radical&hide_border=false" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=airfax8&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
 
-    ----------------------------
-    
-    
-# Diğer Bağlantılar
+<h1> :gem: My achievements </h1>
+<img src="https://github-profile-trophy.vercel.app/?username=airfax8&theme=onedark" />
 
-[![Youtube](https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC8rUaGDtdoKIZF4NqKzaZ5A?sub_confirmation=1)
-[![Mail](https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/airboy.fax)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/h7BGxKARgU)
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/837953203197968414)](https://discord.com/users/837953203197968414)
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=airfax8&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=airfax8&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=airfax8&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
----
-[![](https://visitcount.itsvg.in/api?id=TitanLion72&icon=7&color=0)](https://airfax.cf)
